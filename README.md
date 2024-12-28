@@ -159,7 +159,7 @@ Nous encourageons les contributions de tous et apprécions votre aide pour amél
 
 
 ## Contributeurs Voici les personnes qui ont contribué à ce projet :
- * Ihssane Elmaizi ([GitHub](  https://github.com/Ihssanf )
- * Kaoutar Okayl ([GitHub](https://github.com/votre-lien-github-kaoutar)) 
+ * Ihssane Elmaizi ([GitHub](  https://github.com/Ihssanf ))
+ * Kaoutar Okayl ([GitHub]([https://github.com/votre-lien-github-kaoutar](https://github.com/kaoutarokayl))) 
 * Mohamed Lachgar 
 
